@@ -32,6 +32,6 @@ public abstract class Hero implements HavingSuperAbility {
     public void setSuperAbilityType(String superAbilityType) {
         this.superAbilityType = superAbilityType;
     }
-}
+ }
 
 

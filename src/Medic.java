@@ -12,7 +12,7 @@ public class Medic extends Hero {
 
     public void increaseExperience() {
         this.healPoints += this.healPoints * 0.1;
-        System.out.println("Medic увеличил количество единиц лечения до: " + healPoints);
+        System.out.println("Medi увеличил количество единиц лечения до: " + healPoints);
     }
 
     @Override
